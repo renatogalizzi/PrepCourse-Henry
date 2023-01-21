@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de Prueba henry modulo 2
+Renato Galizzi Prueba de como crear rep y clonar desde github al escritorio
